@@ -1,0 +1,16 @@
+Collecting geopandas
+  Using cached geopandas-0.9.0-py2.py3-none-any.whl (994 kB)
+Requirement already satisfied: shapely>=1.6 in d:\jupyter_notebooks\python_data_analysis_2021\venv\lib\site-packages (from geopandas) (1.7.1)
+Requirement already satisfied: pandas>=0.24.0 in d:\jupyter_notebooks\python_data_analysis_2021\venv\lib\site-packages (from geopandas) (1.2.3)
+Requirement already satisfied: pyproj>=2.2.0 in d:\jupyter_notebooks\python_data_analysis_2021\venv\lib\site-packages (from geopandas) (3.0.1)
+Collecting fiona>=1.8
+  Using cached Fiona-1.8.19.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.18.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.17.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.16.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.15.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.14.tar.gz (1.3 MB)
+  Using cached Fiona-1.8.13.post1.tar.gz (1.2 MB)
+  Using cached Fiona-1.8.13.tar.gz (1.2 MB)
+  Using cached Fiona-1.8.12.tar.gz (1.2 MB)
+  Using cached Fiona-1.8.11.tar.gz (1.2 MB)
